@@ -1,4 +1,6 @@
-### Olá Sou Altino Leandro Rodriguês , Programador Júnior  
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Olá!+👋;+Eu+sou+Altino+Leandro+Rodriguês!;" />
+</h1>
 
  
 - 🔭 Hoje Trabalho com Front-End
@@ -37,6 +39,16 @@
   <a href="https://www.linkedin.com/in/altino-leandro-b0630a265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Obrigado+pela+visita!+✌️;+mande-me+uma+mensagem+no+facebook!;+facebook:Altino+Leandro;Estou+sempre+pronto+para+colaborar+:)">
+</h3>
   
   
  
